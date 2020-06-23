@@ -14,6 +14,7 @@ Wetland – Dryland Statistics Using Satellite Image:
   Tools Used : TensorFlow, Keras, Scikit learn, NumPy, matplotlib, MySQL
 </li>
 </ul>
+
 ## Model Architecture 
 <img src="Arch.PNG" height="500px">
 
