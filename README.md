@@ -15,5 +15,5 @@ Wetland – Dryland Statistics Using Satellite Image:
 </li>
 </ul>
 ## Model Architecture 
-<img src="Arch.png" height="500px">
+<img src="Arch.PNG" height="500px">
 
