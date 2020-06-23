@@ -55,5 +55,11 @@ Trainable params: 485,817
 Non-trainable params: 0
 __________________________________________________________________________________________________
 ```
+### Calculation of Change in area by Area accept Ratio
+```python
+area_of_first_image = (Num_of_WhitePixel_in_First_image/totalPxArea)*totalArea
+area_of_first_image = (Num_of_WhitePixel_in_Second_image/totalPxArea)*totalArea
+difference_of_area = areaPro1 - areaPro2
+```
 <img src="Arch.PNG" height="300px">
 
