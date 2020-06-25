@@ -61,5 +61,10 @@ area_of_first_image = (Num_of_WhitePixel_in_First_image/totalPxArea)*totalArea
 area_of_first_image = (Num_of_WhitePixel_in_Second_image/totalPxArea)*totalArea
 difference_of_area = areaPro1 - areaPro2
 ```
+## Project Snapshot:
 <img src="Arch.PNG" height="300px">
+<ul>
+  <li> Use stellite Image and its corresponding mask as training data </li>
+  <li> Get mask of given Image </li>
+</ul>  
 
